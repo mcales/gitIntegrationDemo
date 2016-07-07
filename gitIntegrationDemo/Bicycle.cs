@@ -13,6 +13,7 @@ namespace GitIntegrationDemo
         public int WheelCount;
         public bool SissyBar;
         public bool Horn;
+        public string WheelType;
 
         public void PrintBicycleData()
         {
